@@ -1,0 +1,7 @@
+{
+  "name": "ionTabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
